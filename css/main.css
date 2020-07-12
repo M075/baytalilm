@@ -1379,7 +1379,7 @@ Portfolio with right sidebar
   transition-duration: 0s;
 }
 
-..iframe-container {
+.iframe-container {
   overflow: hidden;
   padding-top: 56.25%; /* 16:9*/
   position: relative;
