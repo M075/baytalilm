@@ -498,7 +498,7 @@ ul.sub-menu {
 }
 .nav-pills {
   display: flex;
-  jujustify-content: center;
+  justify-content: center;
 }
 /*************************
 *******Home Page******
